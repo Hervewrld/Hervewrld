@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Herve Ishimwe
 - 👀 I’m interested in Learning new Technology 
-- 🌱 I’m currently learning Python,Terraform,CI/CD , Ansible, AWS
+- 🌱 I’m currently learning Python,Terraform,CI/CD, Ansible, AWS
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me Via my email : isherve23@gmail.com
 
